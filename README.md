@@ -6,3 +6,5 @@ Enterprises are experiencing an explosive growth in their data estates and are l
   <img width="" height="" src="https://github.com/chayansraj/Snowflake-data-ingestion-hands-on-tutorial/assets/22219089/ff12120c-49f6-4926-af69-d7463e8b1492"> <h6 align = "center" > Source: Author </h6>
 </p>
 
+
+
